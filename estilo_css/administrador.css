@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+}
+.admin{
+    text-align: center;
+ 
+}
+.iniciosecion{
+    color: blanchedalmond;
+}
+
+.enviar{
+    color:blanchedalmond;
+    background-color:blue;
+}
+.verificacion{
+    color:blanchedalmond;
+    background-color:blue;
+
+
+}
+
+body{
+    background-color: black;}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  h1 {
+      color: white;
+      text-align: center;
+  
+      
+  }
+  
+  
+  h2{color: darkorange;
+  text-align: center;
+  text-decoration: darkturquoise;
+  }
+  
+  
+  
+  
+  
+  .manchas{
+      color: red;
+      text-align: right;
+     
+  }
+  
+  footer {
+      color:green;
+      text-align: center;
+  }
+  
+  
+  nav{
+      color:blue;
+      width: 1000px;
+   margin: 30px auto;
+   background-color: white;
+      
+  }
+  
+  .navegacion ul{
+  list-style: none;
+  }
+  .menu > li {
+      /*position: relative;*/
+      display: inline-block;
+  }
+  .menu >li >a{
+      display: block;
+      padding: 15px 20px;
+      color:blue;
+      font-family: open sans-serif;
+      text-decoration: none;
+  }
+  
+  .menu li a:hover{
+      color: red;
+      transition: all 3s;
+  }
+  
+  .submenu1{
+      position: absolute;
+      background:blue;
+  visibility: hidden;
+  opacity: o;
+  transition: opacity 1.5s;
+  
+  }
+  .submenu1 li a{
+      display: block;
+      padding: 15px;
+      color: honeydew;
+      font-family: open sans-serif;
+      text-decoration: none;
+  
+  }
+  
+  .menu li:hover .submenu1{
+      visibility:visible;
+      opacity: 1;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  article{color:white;
+      text-align: center;
+    
+      
+  
+  }
+  
+  
+  p{
+  color: white;
+  text-align: center;
+  }
+  
+  
+  .petra{
+      display:block;
+      margin-right:auto;
+      margin-left:auto;
+       border-radius:10px;
+      box-shadow: 2px 2px 2px rgb(23, 8, 238);
+      align-content: space-around;
+  width: 100%;
+  }
+  
+  
+  
+  
+  
